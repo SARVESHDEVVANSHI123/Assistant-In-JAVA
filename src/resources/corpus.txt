@@ -1,0 +1,120 @@
+JARVIS
+Date Time
+Introduce yourself
+I love you
+Good morning
+Good night
+Good afternoon
+Good evening
+Good bye, JARVIS
+Thank you, jARVIS
+How are you?
+Where are you?
+What is your name?
+Who is your developer?
+What programming language is used in you?
+What is your developing code?
+Open Chrome
+Close Chrome
+Open Firefox
+Close FireFox
+Play Music
+Close Music
+Play Music Fullscreen
+Open Notepad
+Close paint
+Open paint
+Close paint
+Open msword
+Close msword
+Open excel
+Close excel
+Open msaccess
+Close msaccess
+Open ppt
+Close ppt
+
+Open mspic
+Close mspic
+Open mail
+Close mail
+Open fb
+Close fb
+
+Open calendar
+Close calendar
+Open calculator
+Close calculator
+Open center
+Open camera
+Close camera
+Hey cortana
+Start projecting
+Close projecting
+Play groove
+Close groove
+Open photos
+Close photos
+Open setting
+Close setting
+
+Open firewall
+Close firewall
+Open Bluetooth
+Close Bluetooth
+Open display setting
+Close setting
+Open sound card
+Close setting
+Open notifications
+Close notifications
+Open System Details
+Close setting
+Open personalization
+Close setting
+Show wifi network
+Show data usage
+Close setting
+Open wifi setting
+Close setting
+Open network
+Close setting
+Start git
+Close git
+Open git bash
+Close git bash
+Open netbeans
+Open vlc
+Close vlc
+Open nodejs
+Close nodejs
+Open arduino
+Close arduino
+Open mysql
+Close mysql
+Open pdf
+Close pdf
+Open vscode
+Close vscode
+Open team
+Close team
+Start c
+Open anaconda
+Close anaconda
+Open myeclipse
+Close myeclipse
+Open eclipse
+Close eclipse
+Open IDLE
+Close IDLE
+
+Connect vivo1915
+Disconnect wifi
+Set only volume
+Set volume
+Close volume
+Open youtube
+Open marjavaan on youtube
+Open wikipedia
+Open Narendra Modi wiki
+
