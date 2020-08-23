@@ -1,0 +1,1 @@
+java -jar C:\Users\sarvesh\Documents\test\Assistant\dist\Assistant.jar

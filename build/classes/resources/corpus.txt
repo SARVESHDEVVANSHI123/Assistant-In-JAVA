@@ -1,4 +1,4 @@
-JARVIS
+DEV
 Date Time
 Introduce yourself
 I love you
@@ -6,8 +6,8 @@ Good morning
 Good night
 Good afternoon
 Good evening
-Good bye, JARVIS
-Thank you, jARVIS
+Good bye, DEV
+Thank you, DEV
 How are you?
 Where are you?
 What is your name?
@@ -25,21 +25,21 @@ Open Notepad
 Close paint
 Open paint
 Close paint
-Open msword
-Close msword
+Open word
+Close word
 Open excel
 Close excel
-Open msaccess
-Close msaccess
+Open access
+Close access
 Open ppt
 Close ppt
 
-Open mspic
-Close mspic
+Open microsoft
+Close microsoft
 Open mail
 Close mail
-Open fb
-Close fb
+Open facebook
+Close facebook
 
 Open calendar
 Close calendar
@@ -62,59 +62,62 @@ Open firewall
 Close firewall
 Open Bluetooth
 Close Bluetooth
+OPEN BLUETOOTH SETTING
 Open display setting
 Close setting
 Open sound card
-Close setting
 Open notifications
 Close notifications
-Open System Details
-Close setting
-Open personalization
-Close setting
+Show me System Details
+Open personal
 Show wifi network
-Show data usage
-Close setting
+Show data use
 Open wifi setting
-Close setting
 Open network
-Close setting
 Start git
 Close git
 Open git bash
 Close git bash
 Open netbeans
+close netbeans
 Open vlc
 Close vlc
-Open nodejs
-Close nodejs
+Open node
+Close node
 Open arduino
 Close arduino
-Open mysql
-Close mysql
+Open sql
+Close sql
 Open pdf
 Close pdf
-Open vscode
-Close vscode
+Open code
+Close code
 Open team
 Close team
-Start c
+Start turbo
+close turbo
 Open anaconda
 Close anaconda
 Open myeclipse
 Close myeclipse
 Open eclipse
 Close eclipse
-Open IDLE
-Close IDLE
+Open PYTHON
+Close PYTHON
 
-Connect vivo1915
+Connect vivo
 Disconnect wifi
-Set only volume
-Set volume
-Close volume
+Set only Sound
+Set Sound
+Close SOUND
+Open Task
+Close Task
+Open CMD
+Close CMD
+Open Command Admin
+Close Command Admin
 Open youtube
 Open marjavaan on youtube
 Open wikipedia
-Open Narendra Modi wiki
+
 

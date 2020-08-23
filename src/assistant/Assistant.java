@@ -28,10 +28,10 @@ public class Assistant {
 		//voiceRecognizer vr=new voiceRecognizer();
 		Configuration configuration = new Configuration();
 		 configuration.setAcousticModelPath("resource:/edu/cmu/sphinx/models/en-us/en-us");
-	        configuration.setDictionaryPath("/Users/sarvesh/newecworkspace/Assistant/src/com/voicerecog/resources/6383.dic");
-	        configuration.setLanguageModelPath("/Users/sarvesh/newecworkspace/Assistant/src/com/voicerecog/resources/6383.lm");
+	        configuration.setDictionaryPath("/Users/sarvesh/Documents/test/Assistant/src/resources/3899.dic");
+	        configuration.setLanguageModelPath("/Users/sarvesh/Documents/test/Assistant/src/resources/3899.lm");
 	        
-	        LiveSpeechRecognizer recognizer = new LiveSpeechRecognizer(configuration);
+            LiveSpeechRecognizer recognizer = new LiveSpeechRecognizer(configuration);
 	     // Start recognition process pruning previously cached data.
 	     recognizer.startRecognition(true);
 	     SpeechResult result;
